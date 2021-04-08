@@ -1,7 +1,9 @@
-# gulp - 4
+# Gulp - 4
 
-**comands:**
+**Comands:**
 
-`npm i` => Init project
-`gulp` => Start project
-`gulp build` => Build ver.
+* `npm i` Init project
+
+* `gulp`  Start project
+
+* `gulp build`  Build ver.
